@@ -13,5 +13,5 @@ hello git!
 hello git!
 hello git!
 hello git!
-hello git! main
+hello git! main main
 hello git! hot-fix
